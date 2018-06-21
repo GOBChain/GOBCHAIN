@@ -1,0 +1,21 @@
+{
+    "website": "http://gobchain.io/",
+    "whitepaper": "http://gobchain.io/static/GOB_CHAIN1.3.pdf",
+    "published_on": "2018-5-26",
+    "links": {
+        "telegram": "https://t.me/GobLinChain"
+        "email ": "gobchain@gmail.com ",
+        "twitter": "https://twitter.com/gobchain",
+        "facebook": "https://www.facebook.com/gobchain"
+    },
+    "overview": {
+        "en": "GOB Chainis committed to the development of a global content value ecosystem, which utilizes multi-chain architecture to solve the bottlenecks of blockchain technologies existing in systems with single architecture (including performance,capacity, privacy, isolation, and expansion). An expanding ecology is set up through smart blockchain contracts，allowing inter-industry or cross-industry organizations to carry out accurate pricing and equityreturns in the content value domain.",
+        "zh": " GOB Chain，致力于开发全球内容价值生态链。将采用多链构架，解决现有的内存块链技术在单构架下存在性能，容量，隐私，隔离性，扩展上的瓶颈；通过内存块链智能合约创建内容分发激励机制，打造内容价值领域的同业或跨行业组织进行精准定价和权益回报的开放生态。"
+    },
+    "symbol": "GOBC",
+    "initial_price": {
+        "ETH": "0.0000200ETH",
+        "USD": "0.00937USD"
+    },
+    "address": "0x5b755b2130dab47636222ea33695c62bb54dc85d"
+}
